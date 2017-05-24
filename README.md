@@ -64,5 +64,5 @@ Android 4.2:
 * [support rtl8188eu wifi DDR432MHz](http://ubuntuone.com/65cb9IbMRw5FSwmwFsRzvk  "support rtl8188eu wifi DDR432MHz")
 * [support rtl8188eu wifi DDR480MHz](http://ubuntuone.com/2Jv9jdDFrQkCviJOJj06tV  "support rtl8188eu wifi DDR480MHz")
 
-
+FDFSASDFASDFAF
   
